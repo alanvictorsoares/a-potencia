@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>mudamaop</title>
+        <link rel="stylesheet" types="text/css" href="styledomundo.css">
+    </head>
+    <body>
+        <ul>
+            <li>
+                <h1>
+                   <div class="inf"><li>1°informatica</li></div> 
+                   <div class="edf"><li>1°edificações</li></div> 
+                   <div class="enf"><li>1°enfermagem</li></div> 
+                   <div class="adm"><li>1°administração</li></div> 
+                </h1>
+            </li>
+        </ul>
+            <br>
+
+            <ul>
+                    <li>
+                        <h1>
+                           <div class="inf"><li>1°informatica</li></div>
+                           <div class="edf"><li>1°edificações</li></div> 
+                           <div class="enf"><li>1°enfermagem</li></div> 
+                           <div class="adm"><li>1°administração</li></div> 
+                        </h1>
+                    </li>
+                </ul>
+                    <br>
+
+
+                    <ul>
+                            <li>
+                                <h1>
+                                   <div class="inf"><li>1°informatica</li></div> 
+                                   <div class="edf"><li>1°edificações</li></div> 
+                                   <div class="enf"><li>1°enfermagem</li></div> 
+                                   <div class="adm"><li>1°administração</li></div> 
+                                </h1>
+                            </li>
+                        </ul>              
+    </body>
+</html>
